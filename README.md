@@ -3,11 +3,11 @@
 --- 
 (Imagen Realizada con IA)
 ## Índice
-1. [Introducción al análisis de sostenibilidad]()
+1. [Impacto ambiental del sector TI]()
 
-2. [Grupos de interés (stakeholders)]()
+2. [Estrategias de sostenibilidad en TI]()
 
-3. [Aspectos ASG materiales (Ambientales, Sociales y de Gobernanza)]()
+3. [Ejemplos y buenas prácticas]()
 
 
 ## [Conclusiones](conclusiones.md)
