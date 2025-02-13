@@ -13,7 +13,7 @@
 ## [Conclusiones](conclusiones.md)
 ## Mapa conceptual
 
-![mapa conceptual]()
+![mapa conceptual](img/ActividadesSostenibles.png)
 
 Herramientas utilizada: Mapify
 ## [Glosario]()
