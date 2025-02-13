@@ -16,7 +16,7 @@
 ![mapa conceptual](img/ActividadesSostenibles.png)
 
 Herramientas utilizada: Mapify
-## [Glosario]()
+## [Glosario](glosario.md)
 Herramientas utilizada: Canva
 ## Autores
 - Iván Palma Sierra
