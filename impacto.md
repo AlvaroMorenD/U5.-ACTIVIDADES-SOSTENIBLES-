@@ -20,3 +20,11 @@ El sector TI contribuye a la emisión de gases de efecto invernadero a través d
 - **Promoción de la economía circular** en la industria tecnológica.
 
 Este documento proporciona una visión general sobre los principales problemas ambientales del sector TI y algunas estrategias para mitigarlos.
+
+---
+
+### Referencias
+- Greenpeace. (2021). Clicking Clean: Who is Winning the Race to Build a Green Internet? Disponible en: [www.greenpeace.org](https://www.greenpeace.org)
+- United Nations. (2020). E-Waste Monitor. Disponible en: [www.un.org](https://www.un.org)
+- World Economic Forum. (2019). A New Circular Vision for Electronics. Disponible en: [www.weforum.org](https://www.weforum.org)
+
