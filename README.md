@@ -17,7 +17,6 @@
 
 Herramientas utilizada: Mapify
 ## [Glosario](glosario.md)
-Herramientas utilizada: Canva
 ## Autores
 - Iván Palma Sierra
 - Iker Cupillar Aliaga
